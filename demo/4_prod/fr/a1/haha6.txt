@@ -1,0 +1,7 @@
+aa	bb
+0	at
+1	ball
+2	be
+3	bed
+4	big
+5	book

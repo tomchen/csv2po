@@ -1,0 +1,7 @@
+Warning: Can't find non first-language file 0_source\zh_CN\b1\all.txt.
+Warning: Can't find zh_CN language translation of the word "pet ".
+Warning: Can't find zh_CN language translation of the word "ongffgh\nefhrgfh".
+Warning: Can't find zh_CN language translation of the word "out".
+Warning: Can't find zh_CN language translation of the word "fish".
+Warning: Can't find zh_CN language translation of the word "different".
+Note: End.

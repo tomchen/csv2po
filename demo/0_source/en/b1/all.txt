@@ -1,0 +1,14 @@
+a	b
+1	pet 
+2	was*
+3	\\p"a'n\t
+n%d\nf
+4	ongffgh
+efhrgfh
+5	pet
+6	u@s
+7	out
+8	fish
+9	different
+10	cat
+11	cat	fish	

@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CSV2PO Demo Project\n"
+"POT-Creation-Date: 2020-02-12 00:22+0100\n"
+"PO-Revision-Date: 2020-02-12 00:22+0100\n"
+"Last-Translator: Tom Chen <tomchen.org@gmail.com>\n"
+"Language-Team: Tom Chen's Team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: CSV2PO Python Script 1.0.0\n"
+"X-Poedit-Basepath: ../2_dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: pgettext:1c,2;_x:1c,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: a1/haha6.txt.py:2
+msgid "at"
+msgstr ""
+
+#: a1/haha6.txt.py:3
+msgid "ball"
+msgstr ""
+
+#: a1/haha6.txt.py:4
+msgid "be"
+msgstr ""
+
+#: a1/haha6.txt.py:5
+msgid "bed"
+msgstr ""
+
+#: a1/haha6.txt.py:6
+msgid "big"
+msgstr ""
+
+#: a1/haha6.txt.py:7
+msgid "book"
+msgstr ""
+
+#: a1/hehe6.txt.py:2 a1/hehe6.txt.py:3
+msgid "house"
+msgstr ""
+
+#: a2/hehe7.txt.py:4
+msgid "pan"
+msgstr ""
+
+#: a2/hehe7.txt.py:5 a2/hehe7.txt.py:7 b1/all.txt.py:6
+msgid "pet"
+msgstr ""
+
+#: a2/hehe7.txt.py:6
+msgid "pig"
+msgstr ""
+
+#: a3/hehe8.txt.py:2
+msgid "up"
+msgstr ""
+
+#: a3/hehe8.txt.py:3 b1/all.txt.py:7
+msgid "u@s"
+msgstr ""
+
+#: a3/hehe8.txt.py:4 b1/all.txt.py:3
+msgid "was*"
+msgstr ""
+
+#: a3/hehe8.txt.py:5 b1/all.txt.py:4
+msgid "\\p\"a'n\t\nn%d\nf"
+msgstr ""
+
+#: a3/hehe8.txt.py:6
+msgctxt "abbr for category"
+msgid "cat"
+msgstr ""
+
+#: a3/hehe8.txt.py:7 b1/all.txt.py:11 b1/all.txt.py:12
+msgid "cat"
+msgstr ""
+
+#: b1/all.txt.py:2
+msgid "pet "
+msgstr ""
+
+#: b1/all.txt.py:5
+msgid "ongffgh\nefhrgfh"
+msgstr ""
+
+#: b1/all.txt.py:8
+msgid "out"
+msgstr ""
+
+#: b1/all.txt.py:9 b1/all.txt.py:12
+msgid "fish"
+msgstr ""
+
+#: b1/all.txt.py:10
+msgid "different"
+msgstr ""
+

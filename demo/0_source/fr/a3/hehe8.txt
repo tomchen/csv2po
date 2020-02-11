@@ -1,0 +1,7 @@
+aa	bb
+1	up	fdf
+2	u@s
+3	was*
+4	we*
+5	cat
+6	cat	OKOK

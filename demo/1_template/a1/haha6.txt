@@ -1,0 +1,7 @@
+aa	bb
+0	_(TRANS)_
+1	_(TRANS)_
+2	_(TRANS)_
+3	_(TRANS)_
+4	_(TRANS)_
+5	_(TRANS)_

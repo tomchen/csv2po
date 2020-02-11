@@ -1,0 +1,7 @@
+aa	bb
+1	_(TRANS)_	fdf
+2	_(TRANS)_
+3	_(TRANS)_
+4	_(TRANS)_
+5	_(TRANS_CONTEXT:'abbr for category')_
+6	_(TRANS)_	OKOK

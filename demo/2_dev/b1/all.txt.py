@@ -1,0 +1,13 @@
+def t(_, _x): return ('a\tb\r\n'
+'1\t' + _("pet ") + '\r\n'
+'2\t' + _("was*") + '\r\n'
+'3\t' + _("\\p\"a'n\t\nn%d\nf") + '\r\n'
+'4\t' + _("ongffgh\nefhrgfh") + '\r\n'
+'5\t' + _("pet") + '\r\n'
+'6\t' + _("u@s") + '\r\n'
+'7\t' + _("out") + '\r\n'
+'8\t' + _("fish") + '\r\n'
+'9\t' + _("different") + '\r\n'
+'10\t' + _("cat") + '\r\n'
+'11\t' + _("cat") + '\t' + _("fish") + '\tsdf'
+)
