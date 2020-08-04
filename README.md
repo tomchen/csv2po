@@ -1,5 +1,7 @@
 # csv2po
 
+[![MIT License](https://img.shields.io/github/license/tomchen/csv2po)](https://github.com/tomchen/csv2po/blob/master/LICENSE "MIT License")
+
 csv2po.py: Python Script to generate gettext .po file from CSV files and vice versa
 
 ## Usages
